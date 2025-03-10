@@ -1,1 +1,2 @@
-# takashi_portfolio
+# newPortfolio
+Fully animated portfolio
